@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "net 3", "net 3", "{97EA199D-47C7-4F07-88A7-F80D6FDBC1C0}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/net 3"
+		Debug.AspNetCompiler.PhysicalPath = "C:\rss\VB.net\net 3\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\net 3\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/net 3"
+		Release.AspNetCompiler.PhysicalPath = "C:\rss\VB.net\net 3\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\net 3\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "4509"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97EA199D-47C7-4F07-88A7-F80D6FDBC1C0}.Debug|.NET.ActiveCfg = Debug|.NET
+		{97EA199D-47C7-4F07-88A7-F80D6FDBC1C0}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿.rssBlock
+{
+	font-family: Arial;
+	font-size: 12px;
+	color:black;
+	border:1px solid silver;
+	width:300px;
+}
+
+.rssParentTitle
+{
+	font-size:20px;
+	color: #006600;
+}
+
+.rssTitle
+{
+	font-size:16px;
+	color: #006600;
+}

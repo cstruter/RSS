@@ -1,0 +1,33 @@
+<html>
+	<head>
+		<title></title>
+		<link href="styles/styles.css" rel="stylesheet" type="text/css" />
+		<script language="javascript" src="js/rss.js"></script>
+		<script language="javascript">
+			window.onload = function()
+			{
+				RenderRSS('http://localhost/public/rss/rss.xml','feed1');
+			}
+		</script>
+	</head>
+	<body>
+	
+	<div class="rssBlock" id="feed1">
+		<div class="FeedTitle">
+			<span class="rssParentTitle">(::Title::)</span><br/>
+			(::Description::)<br/>
+			<a href="(::Link::)">Read More</a>
+		</div>
+		<div class="FeedItems">
+			<span class="rssTitle">(::Title::)</span>
+			<br/>
+			(::Description::)
+			<br/>
+			<a href="(::Link::)">Read More</a>
+			<hr noshade/>
+			<br/>
+		</div>
+	</div>
+
+	</body>
+</html>
